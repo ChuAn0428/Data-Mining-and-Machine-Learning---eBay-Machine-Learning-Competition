@@ -1,0 +1,89 @@
+runfile('C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score/clustering.py', wdir='C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score')
+Category Total:
+Start computing Agglomerative Clustering clustering ... D = 0
+Baseline   RI: 0.9999654169678256
+Start computing Agglomerative Clustering clustering ... D = 1e-17
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-16
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-15
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-14
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-13
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-12
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-11
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-10
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-09
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-08
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 0.1
+"Ward"     RI: 0.9999669155228246
+"Single"   RI: 0.9998813557835303
+"Average"  RI: 0.9999616189060179
+"Complete" RI: 0.9999653782120929
+Start computing Agglomerative Clustering clustering ... D = 0.01
+"Ward"     RI: 0.9999687757979957
+"Single"   RI: 0.9999687499608405
+"Average"  RI: 0.9999687499608405
+"Complete" RI: 0.9999688016351509
+Start computing Agglomerative Clustering clustering ... D = 0.001
+"Ward"     RI: 0.9999689308209266
+"Single"   RI: 0.9999689308209266
+"Average"  RI: 0.9999689308209266
+"Complete" RI: 0.9999689308209266
+Start computing Agglomerative Clustering clustering ... D = 0.0001
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-05
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-06
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594
+Start computing Agglomerative Clustering clustering ... D = 1e-07
+"Ward"     RI: 0.9999689695766594
+"Single"   RI: 0.9999689695766594
+"Average"  RI: 0.9999689695766594
+"Complete" RI: 0.9999689695766594

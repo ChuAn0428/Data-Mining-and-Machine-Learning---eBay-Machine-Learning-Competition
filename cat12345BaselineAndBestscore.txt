@@ -1,0 +1,97 @@
+In [15]: runfile('C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score/clustering.py', wdir='C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score')
+Cat_3:
+Start computing AgglomerativeClustering clustering ... D = 0
+    Rand index: 0.999457663887194
+Start computing AgglomerativeClustering clustering ... D = 0.15
+    Rand index: 0.9995121197673734
+Start computing AgglomerativeClustering clustering ... D = 1e-16
+    Rand index: 0.9995287899347752
+Start computing AgglomerativeClustering clustering ... D = 0.015
+    Rand index: 0.9995154538008537
+Start computing AgglomerativeClustering clustering ... D = 0.0015
+    Rand index: 0.9995287899347752
+Start computing AgglomerativeClustering clustering ... D = 0.00015
+    Rand index: 0.9995287899347752
+
+In [16]: runfile('C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score/clustering.py', wdir='C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score')
+Cat_3:
+Start computing AgglomerativeClustering clustering ... D = 0
+    Rand index: 0.999457663887194
+Start computing AgglomerativeClustering clustering ... D = 0.15
+    Rand index: 0.9995121197673734
+Start computing AgglomerativeClustering clustering ... D = 1e-16
+    Rand index: 0.9995287899347752
+Start computing AgglomerativeClustering clustering ... D = 0.015
+    Rand index: 0.9995154538008537
+Start computing AgglomerativeClustering clustering ... D = 0.0015
+    Rand index: 0.9995287899347752
+Start computing AgglomerativeClustering clustering ... D = 0.0001
+    Rand index: 0.9995287899347752
+
+In [17]: runfile('C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score/clustering.py', wdir='C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score')
+Cat_4:
+Start computing AgglomerativeClustering clustering ... D = 0
+    Rand index: 0.9991819699499165
+Start computing AgglomerativeClustering clustering ... D = 0.15
+    Rand index: 0.9989426822481914
+Start computing AgglomerativeClustering clustering ... D = 1e-16
+    Rand index: 0.9992543127434613
+Start computing AgglomerativeClustering clustering ... D = 0.015
+    Rand index: 0.9991930996104619
+Start computing AgglomerativeClustering clustering ... D = 0.0015
+    Rand index: 0.9992153589315526
+Start computing AgglomerativeClustering clustering ... D = 0.0001
+    Rand index: 0.9992153589315526
+
+In [18]: runfile('C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score/clustering.py', wdir='C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score')
+Cat_5:
+Start computing AgglomerativeClustering clustering ... D = 0
+    Rand index: 0.996657363536055
+Start computing AgglomerativeClustering clustering ... D = 0.15
+    Rand index: 0.9975335886285455
+Start computing AgglomerativeClustering clustering ... D = 1e-16
+    Rand index: 0.9974686830661388
+Start computing AgglomerativeClustering clustering ... D = 0.015
+    Rand index: 0.9974524566755371
+Start computing AgglomerativeClustering clustering ... D = 0.0015
+    Rand index: 0.9974686830661388
+Start computing AgglomerativeClustering clustering ... D = 0.0001
+    Rand index: 0.9974686830661388
+
+In [19]: runfile('C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score/clustering.py', wdir='C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score')
+Cat_2:
+Start computing AgglomerativeClustering clustering ... D = 0
+    Rand index: 0.9997182817808232
+Start computing AgglomerativeClustering clustering ... D = 0.2
+    Rand index: 0.9997495838051762
+Start computing AgglomerativeClustering clustering ... D = 0.18
+    Rand index: 0.9997524698074215
+Start computing AgglomerativeClustering clustering ... D = 0.15
+    Rand index: 0.9997473638034491
+Start computing AgglomerativeClustering clustering ... D = 1e-16
+    Rand index: 0.9997320457915316
+Start computing AgglomerativeClustering clustering ... D = 0.015
+    Rand index: 0.999732489791877
+Start computing AgglomerativeClustering clustering ... D = 0.0015
+    Rand index: 0.9997320457915316
+Start computing AgglomerativeClustering clustering ... D = 0.0001
+    Rand index: 0.9997320457915316
+
+In [20]: runfile('C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score/clustering.py', wdir='C:/Users/nine5/Desktop/CS573/project/clustering with Rand index score')
+Cat_1:
+Start computing AgglomerativeClustering clustering ... D = 0
+    Rand index: 0.999985271618887
+Start computing AgglomerativeClustering clustering ... D = 0.2
+    Rand index: 0.9999876787504262
+Start computing AgglomerativeClustering clustering ... D = 0.18
+    Rand index: 0.9999876787504262
+Start computing AgglomerativeClustering clustering ... D = 0.15
+    Rand index: 0.999988045939983
+Start computing AgglomerativeClustering clustering ... D = 1e-16
+    Rand index: 0.9999870667678314
+Start computing AgglomerativeClustering clustering ... D = 0.015
+    Rand index: 0.9999871075666711
+Start computing AgglomerativeClustering clustering ... D = 0.0015
+    Rand index: 0.9999870667678314
+Start computing AgglomerativeClustering clustering ... D = 0.0001
+    Rand index: 0.9999870667678314
